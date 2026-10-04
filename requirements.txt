@@ -4,3 +4,6 @@ scikit-learn
 shap
 torch
 pyarrow
+ipykernel
+matplotlib
+seaborn
